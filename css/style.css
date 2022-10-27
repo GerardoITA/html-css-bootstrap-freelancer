@@ -18,3 +18,26 @@
     background-color: rgb(109, 69, 20);
     
 }
+
+/* Cosmetic */
+.dark_blue {
+    background-color: rgb(44, 62, 79);
+}
+.light_green {
+    background-color: rgb(26, 188, 156);
+}
+.white {
+    background-color: white;
+}
+.light_red {
+    background-color: rgb(186, 76, 99);
+}
+
+/* Generic */
+.round {
+     border-radius: 25px; 
+}
+.pers_card {
+    max-width: 100%;
+    height: auto;
+}
